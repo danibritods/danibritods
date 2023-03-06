@@ -34,8 +34,13 @@
      - [Building a Computer Controlled Loom](https://youtu.be/Czun6yVpzp0)
      - [The Statistics of Microwave Popcorn](https://youtu.be/oeyW9x7r2Xw)
    </details>
+   - <details><summary> There are other mediums! </summary>
+    - [Byrne's Euclid](https://www.c82.net/euclid/)!!!  
+    </details>
  </details>
  <details><summary> Consciousness </summary>
+    - Problems of consciousness, philosophy of mind
+    - Qualia!
  </details> 
  <details><summary> Recursion </summary>
     <details><summary> Recursion </summary>
@@ -45,10 +50,19 @@
             <details><summary> Recursion </summary>
               <details><summary> Recursion </summary></details></details></details></details></details></details></details>
  <details><summary> Exploring </summary>
+    - Learning, teaching, building and testing knowledge 
+    - Experimenting, striving for clarity and truth 
+    - Just trying to make things work
+    - Systematizing 
  </details>
  <details><summary> Kindness </summary>
+    - Cooperation 
+    - Helping people
+    - Non zero-sum games
+    - Really trying to grasp others worldviews 
  </details>
  <details><summary> Toggles </summary>
+    - Well!
  </details>
  <details><summary> Knots </summary>
 
