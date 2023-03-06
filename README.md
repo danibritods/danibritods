@@ -17,63 +17,50 @@
 - Created a simple [calculator][calculator] and a [Tic Tac Toe][tictactoe] using React to gain a better understanding of JavaScript and functional programming within the context of building interactive web applications.  
 
 ### Things I love! (random order)
-- <details><summary> "Outstanding communication" </summary>
-  
-    - "Outstanding communication" is the term I use to describe exceptional communicative pieces, as the name suggests. 
-    - It can be any type of medium, any type of message, anything that catches my attention for its efficiency and functionality of communication.
-    - <details><summary> 
-        I have a <a href="https://youtube.com/playlist?list=PLOyYWXM6fk1aPdjrU-C4ZG-UgF0RDf5ES ">youtube playlist</a> to collect such pieces, take a look at some of them! </summary>  
-  
-      - [The Kernel Trick in Support Vector Machine](https://youtu.be/Q7vT0--5VII)
-      - [EP000: Operation Aurora | HACKING GOOGLE](https://youtu.be/przDcQe6n5o)
-      - [The Riemann Hypothesis, Explained](https://youtu.be/zlm1aajH6gY)
-      - [Evo-Devo (Despacito Biology Parody) | A Capella Science](https://youtu.be/ydqReeTV_vk)
-      - [The Amazing Math behind Colors!](https://youtu.be/gnUYoQ1pwes)
-      - [The Trick That Solves Rubik’s Cubes and Breaks Ciphers](https://youtu.be/wL3uWO-KLUE)
-      - [Quantum Electrodynamics and Feynman Diagrams](https://youtu.be/X-FEU4mQWtE)
-      - [Trigonometry Concepts - Don't Memorize! Visualize!](https://youtu.be/mhd9FXYdf4s)
-      - [Building a Computer Controlled Loom](https://youtu.be/Czun6yVpzp0)
-      - [The Statistics of Microwave Popcorn](https://youtu.be/oeyW9x7r2Xw)
-    </details>
-  </details>
-- <details><summary> Consciousness </summary>
-  </details> 
-- <details><summary> Recursion </summary>
-    <details>
-    <summary> Recursion </summary>
-    <details>
-    <summary> Recursion </summary>
-    <details>
-    <summary> Recursion </summary>
-    <details>
-    <summary> Recursion </summary>
-    <details>
-    <summary> Recursion </summary>
-    <details>
-    <summary> Recursion </summary>
-  </details>
-  </details>
-  </details>
-  </details>
-  </details>
-  </details>
-  </details>
-- <details><summary> Exploring </summary>
-  </details>
-- <details><summary> Kindness </summary>
-  </details>
-- <details><summary> Toggles </summary>
-  </details>
-- <details><summary> Knots </summary>
-    To quote the [ultimate authority on the subject][abok] (emphasis added):
+ <details><summary> "Outstanding communication" </summary>
+ 
+   - "Outstanding communication" is the term I use to describe exceptional communicative pieces, as the name suggests. 
+   - It can be any type of medium, any type of message, anything that catches my attention for its efficiency and functionality of communication.
+   - <details><summary> I have a <a href="https://youtube.com/playlist?list=PLOyYWXM6fk1aPdjrU-C4ZG-UgF0RDf5ES"> youtube playlist </a> to collect such pieces, take a look at some of them! </summary>  
+ 
+     - [The Kernel Trick in Support Vector Machine](https://youtu.be/Q7vT0--5VII)
+     - [EP000: Operation Aurora | HACKING GOOGLE](https://youtu.be/przDcQe6n5o)
+     - [The Riemann Hypothesis, Explained](https://youtu.be/zlm1aajH6gY)
+     - [Evo-Devo (Despacito Biology Parody) | A Capella Science](https://youtu.be/ydqReeTV_vk)
+     - [The Amazing Math behind Colors!](https://youtu.be/gnUYoQ1pwes)
+     - [The Trick That Solves Rubik’s Cubes and Breaks Ciphers](https://youtu.be/wL3uWO-KLUE)
+     - [Quantum Electrodynamics and Feynman Diagrams](https://youtu.be/X-FEU4mQWtE)
+     - [Trigonometry Concepts - Don't Memorize! Visualize!](https://youtu.be/mhd9FXYdf4s)
+     - [Building a Computer Controlled Loom](https://youtu.be/Czun6yVpzp0)
+     - [The Statistics of Microwave Popcorn](https://youtu.be/oeyW9x7r2Xw)
+   </details>
+ </details>
+ <details><summary> Consciousness </summary>
+ </details> 
+ <details><summary> Recursion </summary>
+    <details><summary> Recursion </summary>
+      <details><summary> Recursion </summary>
+        <details><summary> Recursion </summary>
+          <details><summary> Recursion </summary>
+            <details><summary> Recursion </summary>
+              <details><summary> Recursion </summary></details></details></details></details></details></details></details>
+ <details><summary> Exploring </summary>
+ </details>
+ <details><summary> Kindness </summary>
+ </details>
+ <details><summary> Toggles </summary>
+ </details>
+ <details><summary> Knots </summary>
 
-    > To me the simple act of tying a knot is **an adventure in unlimited space**. A bit of string affords a dimensional latitude that is **unique among the entities**.
-    > 
+   To quote the [ultimate authority on the subject][abok] (emphasis added):
 
-    > For an uncomplicated strand is a palpable object that, for all practical purposes, possesses one dimension only. If we move a single strand in a plane, interlacing it at will, actual **objects of beauty and of utility can result** in what is practically two dimensions; and if we choose to direct our strand out of this one plane, another dimension is added which provides opportunity for **an excursion that is limited only by the scope of our own imagery and the length of the ropemaker’s coil**.
-    >
-  </details>
-- <details><summary> Art </summary>
+   > To me the simple act of tying a knot is **an adventure in unlimited space**. A bit of string affords a dimensional latitude that is **unique among the entities**.
+   > 
+
+   > For an uncomplicated strand is a palpable object that, for all practical purposes, possesses one dimension only. If we move a single strand in a plane, interlacing it at will, actual **objects of beauty and of utility can result** in what is practically two dimensions; and if we choose to direct our strand out of this one plane, another dimension is added which provides opportunity for **an excursion that is limited only by the scope of our own imagery and the length of the ropemaker’s coil**.
+   >
+ </details>
+ <details><summary> Art </summary>
   </details> 
 
 
