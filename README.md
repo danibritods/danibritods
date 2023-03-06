@@ -22,9 +22,7 @@
     - "Outstanding communication" is the term I use to describe exceptional communicative pieces, as the name suggests. 
     - It can be any type of medium, any type of message, anything that catches my attention for its efficiency and functionality of communication.
     - <details><summary> 
-        I have a [youtube playlist][out_comm] to collect such pieces, take a look at some of them! 
-
-        </summary>  
+        I have a <a href="https://youtube.com/playlist?list=PLOyYWXM6fk1aPdjrU-C4ZG-UgF0RDf5ES ">youtube playlist</a> to collect such pieces, take a look at some of them! </summary>  
   
       - [The Kernel Trick in Support Vector Machine](https://youtu.be/Q7vT0--5VII)
       - [EP000: Operation Aurora | HACKING GOOGLE](https://youtu.be/przDcQe6n5o)
