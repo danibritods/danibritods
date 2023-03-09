@@ -42,30 +42,41 @@
 </details>
 
  <details><summary> Consciousness </summary>
-    - Problems of consciousness, philosophy of mind
-    - Qualia!
+
+  - Problems of consciousness, philosophy of mind
+  - Qualia!
+
  </details> 
  <details><summary> Recursion </summary>
-    <details><summary> Recursion </summary>
-      <details><summary> Recursion </summary>
-        <details><summary> Recursion </summary>
-          <details><summary> Recursion </summary>
-            <details><summary> Recursion </summary>
-              <details><summary> Recursion </summary></details></details></details></details></details></details></details>
+ 
+  - <details><summary> Recursion </summary>
+  
+    - <details><summary> Recursion </summary>
+      
+      - <details><summary> Recursion </summary>
+      
+        - <details><summary> Recursion </summary>
+
+          - <details><summary> Recursion </summary>
+           
+            - <details><summary> Recursion </summary></details></details></details></details></details></details></details>
  <details><summary> Exploring </summary>
-    - Learning, teaching, building and testing knowledge 
-    - Experimenting, striving for clarity and truth 
-    - Just trying to make things work
-    - Systematizing 
+
+  - Learning, teaching, building and testing 
+  - Experimenting, striving for clarity and truth 
+  - Just trying to make things work
+  - Systematizing 
  </details>
  <details><summary> Kindness </summary>
-    - Cooperation 
-    - Helping people
-    - Non zero-sum games
-    - Really trying to grasp others worldviews 
+
+  - Cooperation 
+  - Helping people
+  - Non zero-sum games
+  - Really trying to grasp others worldviews 
  </details>
  <details><summary> Toggles </summary>
-    - Well!
+
+  - Well ¯\\_(ツ)_/¯
  </details>
  <details><summary> Knots </summary>
 
