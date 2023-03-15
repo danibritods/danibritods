@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- I'm a data enthusiast, almost computer scientist, [undergrad researcher][research].
+- I'm a data enthusiast, [almost computer scientist][curriculum], [undergrad researcher][research].
 - I use Fedora btw (I may or may not have an alias to restart pipewire...)
 - You're very welcome to reach out! 
 
@@ -91,7 +91,7 @@
  <details><summary> Art </summary>
   </details> 
 
-
+[curriculum]: my_curriculum_2023-1.pdf
 [research]: https://github.com/dbs-97/ds_fundamentals_research
 [academ]: https://github.com/dbs-97/demanda_academica
 [introds]: https://github.com/dbs-97/introds
