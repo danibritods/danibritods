@@ -5,8 +5,8 @@
 - You're very welcome to reach out! 
 
 ### Some things I've done
-- [AcaDem][academ]: python script to extract and process my college's students data.
-- [Introds][introds]: created and taught an Introduction to Data Science summer course at my college.
+- [AcaDem][academ]: python and SQL script to extract and process my college's students data.
+- [Introds][introds]: created and taught an Introduction to Data Science summer course at my college following [R for data science][].
 - [case-basedosdados][basedados]: dataviz case to explore BigQuery and basedosdados's API.
 - [ChitChat][chitchat]: created a protocol and three architectures to implement a simple chat and learn about Sockets, RPC, P2P, networks and distributed systems.
 - [dlox][dlox]: my following of the awesome [Crafting Interpreters][crafting_interpreters] to learn more about compilers.
@@ -95,6 +95,7 @@
 [research]: https://github.com/dbs-97/ds_fundamentals_research
 [academ]: https://github.com/dbs-97/demanda_academica
 [introds]: https://github.com/dbs-97/introds
+[r4ds]: https://r4ds.hadley.nz/
 [basedados]: https://github.com/dbs-97/case-basedosdados
 [chitchat]: https://github.com/dbs-97/sistdist#daniel-brito
 [dlox]: https://github.com/dbs-97/dlox
