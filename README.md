@@ -88,7 +88,11 @@
    > For an uncomplicated strand is a palpable object that, for all practical purposes, possesses one dimension only. If we move a single strand in a plane, interlacing it at will, actual **objects of beauty and of utility can result** in what is practically two dimensions; and if we choose to direct our strand out of this one plane, another dimension is added which provides opportunity for **an excursion that is limited only by the scope of our own imagery and the length of the ropemaker’s coil**.
    >
  </details>
- <details><summary> Art </summary>
+ <details><summary> Art and Design </summary>
+
+  - Art being human expression, and design being to leverage human expression to functionality 
+  - I'm crazy about functionality, usefulness, goal driven. 
+  - To put beauty and elegance on top of that is PARADISE 
   </details> 
 
 [curriculum]: my_curriculum_2023-1.pdf
