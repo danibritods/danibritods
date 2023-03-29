@@ -4,7 +4,7 @@
 - I use Fedora btw (I may or may not have an alias to restart pipewire...)
 - You're very welcome to reach out! 
 
-### Some things I've done
+### Some of the Things I’ve Done
 - [AcaDem][academ]: python and SQL script to extract and process my college's students data.
 - [Introds][introds]: created and taught an Introduction to Data Science summer course at my college following [R for data science][].
 - [case-basedosdados][basedados]: dataviz case to explore BigQuery and basedosdados's API.
@@ -16,7 +16,7 @@
 - Built and documented a [CRUD][niex] to an imaginary supermarket with ruby on rails, docker and postgres to learn the basics of webdev.
 - Created a simple [calculator][calculator] and a [Tic Tac Toe][tictactoe] using React to gain a better understanding of JavaScript and functional programming within the context of building interactive web applications.  
 
-### Things I love! (random order)
+### Some of the Things I Love
  <details><summary> "Outstanding communication" </summary>
  
    - "Outstanding communication" is the term I use to describe exceptional communicative pieces, as the name suggests. 
