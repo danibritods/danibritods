@@ -95,7 +95,8 @@
    > 
 
    > For an uncomplicated strand is a palpable object that, for all practical purposes, possesses one dimension only. If we move a single strand in a plane, interlacing it at will, actual **objects of beauty and of utility can result** in what is practically two dimensions; and if we choose to direct our strand out of this one plane, another dimension is added which provides opportunity for **an excursion that is limited only by the scope of our own imagery and the length of the ropemaker’s coil**.
-   >
+   > 
+  🪢
  </details>
 
 
