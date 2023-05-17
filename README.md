@@ -1,8 +1,4 @@
-<h3 align="center">Computer Science Undergrad, Python Developer, Data Engineer Intern </h3>
-
-<br>
-
-- 🔭 I’m currently working on [consulta_academica][consulta_academica], [PingPOMDP][ping_pomdp] and [finishing college][curriculum].
+## Hi there 👋
 
 - I'm a data enthusiast, [almost computer scientist][curriculum], [undergrad researcher][research].
 - I use Fedora btw (I may or may not have an alias to restart pipewire...)
@@ -10,6 +6,7 @@
 
 ### Some of the Things I’ve Done
 - [AcaDem][academ]: python and SQL script to extract and process my college's students data.
+- [My undergrad research][research]: data science theoretical and pratical foundations.
 - [Introds][introds]: created and taught an Introduction to Data Science summer course at my college following [R for data science][r4ds].
 - [case-basedosdados][basedados]: dataviz case to explore BigQuery and basedosdados's API.
 - [ChitChat][chitchat]: created a protocol and three architectures to implement a simple chat and learn about Sockets, RPC, P2P, networks and distributed systems.
