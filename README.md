@@ -105,7 +105,8 @@
   🪢
  </details>
 
-
+[consulta_academica]: https://github.com/danibritods/consulta_academica
+[ping_pomdp]: https://github.com/danibritods/ping_pomdp
 [curriculum]: my_curriculum_2023-1.pdf
 [research]: https://github.com/dbs-97/ds_fundamentals_research
 [academ]: https://github.com/dbs-97/demanda_academica
