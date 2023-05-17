@@ -1,4 +1,8 @@
-## Hi there 👋
+<h3 align="center">Computer Science Undergrad, Python Developer, Data Engineer Intern </h3>
+
+<br>
+
+- 🔭 I’m currently working on [consulta_academica][consulta_academica], [PingPOMDP][ping_pomdp] and [finishing college][curriculum].
 
 - I'm a data enthusiast, [almost computer scientist][curriculum], [undergrad researcher][research].
 - I use Fedora btw (I may or may not have an alias to restart pipewire...)
