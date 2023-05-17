@@ -4,9 +4,10 @@
 
 - 🔭 I’m currently working on [consulta_academica][consulta_academica], [PingPOMDP][ping_pomdp] and [finishing college][curriculum].
 
+<!-- 
 - I'm a data enthusiast, [almost computer scientist][curriculum], [undergrad researcher][research].
 - I use Fedora btw (I may or may not have an alias to restart pipewire...)
-- You're very welcome to reach out! 
+- You're very welcome to reach out!  -->
 
 ### Some of the Things I’ve Done
 - [AcaDem][academ]: python and SQL script to extract and process my college's students data.
