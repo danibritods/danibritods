@@ -12,7 +12,7 @@
 
 ### Some of the Things I’ve Done
 - [AcaDem][academ]: python and SQL script to extract and process my college's students data.
-- [My undergrad research][research]: data science theoretical and pratical foundations.
+- [Undergrad research][research]: on data science theoretical and pratical foundations.
 - [Introds][introds]: created and taught an Introduction to Data Science summer course at my college following [R for data science][r4ds].
 - [case-basedosdados][basedados]: dataviz case to explore BigQuery and basedosdados's API.
 - [ChitChat][chitchat]: created a protocol and three architectures to implement a simple chat and learn about Sockets, RPC, P2P, networks and distributed systems.
