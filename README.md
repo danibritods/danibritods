@@ -10,7 +10,8 @@
 - I use Fedora btw (I may or may not have an alias to restart pipewire...)
 - You're very welcome to reach out!  -->
 
-### Some of the Things I’ve Done
+<details> <summary> Some of the Things I’ve Done </summary>
+
 - [AcaDem][academ]: python and SQL script to extract and process my college's students data.
 - [Undergrad research][research]: on data science theoretical and pratical foundations.
 - [Introds][introds]: created and taught an Introduction to Data Science summer course at my college following [R for data science][r4ds].
@@ -22,49 +23,52 @@
 - Wrote a small book on [Julia Language][julia].
 - Built and documented a [CRUD][niex] to an imaginary supermarket with ruby on rails, docker and postgres to learn the basics of webdev.
 - Created a simple [calculator][calculator] and a [Tic Tac Toe][tictactoe] using React to gain a better understanding of JavaScript and functional programming within the context of building interactive web applications.  
-
-### Some of the Things I Love
- <details><summary> "Outstanding communication" </summary>
- 
-   - "Outstanding communication" is the term I use to describe exceptional communicative pieces, as the name suggests. 
-   - It can be any type of medium, any type of message, anything that catches my attention for its efficiency and functionality of communication.
-   - <details><summary> I have a <a href="https://youtube.com/playlist?list=PLOyYWXM6fk1aPdjrU-C4ZG-UgF0RDf5ES"> youtube playlist </a> to collect such pieces, take a look at some of them! </summary>  
- 
-     - [The Kernel Trick in Support Vector Machine](https://youtu.be/Q7vT0--5VII)
-     - [EP000: Operation Aurora | HACKING GOOGLE](https://youtu.be/przDcQe6n5o)
-     - [The Riemann Hypothesis, Explained](https://youtu.be/zlm1aajH6gY)
-     - [Evo-Devo (Despacito Biology Parody) | A Capella Science](https://youtu.be/ydqReeTV_vk)
-     - [The Amazing Math behind Colors!](https://youtu.be/gnUYoQ1pwes)
-     - [The Trick That Solves Rubik’s Cubes and Breaks Ciphers](https://youtu.be/wL3uWO-KLUE)
-     - [Quantum Electrodynamics and Feynman Diagrams](https://youtu.be/X-FEU4mQWtE)
-     - [Trigonometry Concepts - Don't Memorize! Visualize!](https://youtu.be/mhd9FXYdf4s)
-     - [Building a Computer Controlled Loom](https://youtu.be/Czun6yVpzp0)
-     - [The Statistics of Microwave Popcorn](https://youtu.be/oeyW9x7r2Xw)
-   </details>
-
-   <!-- - <details><summary> There are other mediums! </summary>
-  
-     - [Byrne's Euclid](https://www.c82.net/euclid/)!!! </details>    -->
-  
 </details>
 
- <details><summary> Consciousness </summary>
+
+<details><summary> Some of the Things I Love </summary>
+
+
+  <details><summary> "Outstanding communication" </summary>
+  
+  - "Outstanding communication" is the term I use to describe exceptional communicative pieces, as the name suggests. 
+  - It can be any type of medium, any type of message, anything that catches my attention for its efficiency and functionality of communication.
+  - <details><summary> I have a <a href="https://youtube.com/playlist?list=PLOyYWXM6fk1aPdjrU-C4ZG-UgF0RDf5ES"> youtube playlist </a> to collect such pieces, take a look at some of them! </summary>  
+
+    - [The Kernel Trick in Support Vector Machine](https://youtu.be/Q7vT0--5VII)
+    - [EP000: Operation Aurora | HACKING GOOGLE](https://youtu.be/przDcQe6n5o)
+    - [The Riemann Hypothesis, Explained](https://youtu.be/zlm1aajH6gY)
+    - [Evo-Devo (Despacito Biology Parody) | A Capella Science](https://youtu.be/ydqReeTV_vk)
+    - [The Amazing Math behind Colors!](https://youtu.be/gnUYoQ1pwes)
+    - [The Trick That Solves Rubik’s Cubes and Breaks Ciphers](https://youtu.be/wL3uWO-KLUE)
+    - [Quantum Electrodynamics and Feynman Diagrams](https://youtu.be/X-FEU4mQWtE)
+    - [Trigonometry Concepts - Don't Memorize! Visualize!](https://youtu.be/mhd9FXYdf4s)
+    - [Building a Computer Controlled Loom](https://youtu.be/Czun6yVpzp0)
+    - [The Statistics of Microwave Popcorn](https://youtu.be/oeyW9x7r2Xw)
+    </details>
+
+    <!-- - <details><summary> There are other mediums! </summary>
+    
+      - [Byrne's Euclid](https://www.c82.net/euclid/)!!! </details>    -->
+    
+  </details>
+
+  <details><summary> Consciousness </summary>
 
   - Awareness 
   - Problems of consciousness, philosophy of mind,
   - Qualia!
+  </details> 
 
- </details> 
-
- <details><summary> Art & Design </summary>
+  <details><summary> Art & Design </summary>
 
   - Art being human expression, and design being to leverage human expression to functionality 
   - I'm crazy about functionality, usefulness, goal driven. 
   - To put beauty and elegance on top of that is PARADISE 
   </details> 
 
- <details><summary> Recursion </summary>
- 
+  <details><summary> Recursion </summary>
+
   - <details><summary> Recursion </summary>
   
     - <details><summary> Recursion </summary>
@@ -74,36 +78,51 @@
         - <details><summary> Recursion </summary>
 
           - <details><summary> Recursion </summary>
-           
-            - <details><summary> Recursion </summary></details></details></details></details></details></details></details>
- <details><summary> Exploring </summary>
+          
+            - <details><summary> Recursion </summary></details>
+             
+            </details>
+          
+          </details>
+  
+        </details>
+  
+      </details>
+  
+    </details>
+  
+  </details>
+
+
+  <details><summary> Exploring </summary>
 
   - Learning, teaching, building and testing 
   - Experimenting, striving for clarity and truth 
   - Just trying to make things work
   - Systematizing 
- </details>
- <details><summary> Kindness </summary>
+  </details>
+  <details><summary> Kindness </summary>
 
   - Cooperation 
   - Helping people
   - Non zero-sum games
   - Really trying to grasp others worldviews 
- </details>
- <details><summary> Toggles </summary>
+  </details>
+  <details><summary> Toggles </summary>
 
   - Well ¯\\_(ツ)_/¯
- </details>
- <details><summary> Knots </summary>
+  </details>
+  <details><summary> Knots </summary>
 
-   To quote the [ultimate authority on the subject][abok] (emphasis added):
+  To quote the [ultimate authority on the subject][abok] (emphasis added):
 
-   > To me the simple act of tying a knot is **an adventure in unlimited space**. A bit of string affords a dimensional latitude that is **unique among the entities**.
-   > 
+  > To me the simple act of tying a knot is **an adventure in unlimited space**. A bit of string affords a dimensional latitude that is **unique among the entities**.
+  > 
 
-   > For an uncomplicated strand is a palpable object that, for all practical purposes, possesses one dimension only. If we move a single strand in a plane, interlacing it at will, actual **objects of beauty and of utility can result** in what is practically two dimensions; and if we choose to direct our strand out of this one plane, another dimension is added which provides opportunity for **an excursion that is limited only by the scope of our own imagery and the length of the ropemaker’s coil**.
-   > 
+  > For an uncomplicated strand is a palpable object that, for all practical purposes, possesses one dimension only. If we move a single strand in a plane, interlacing it at will, actual **objects of beauty and of utility can result** in what is practically two dimensions; and if we choose to direct our strand out of this one plane, another dimension is added which provides opportunity for **an excursion that is limited only by the scope of our own imagery and the length of the ropemaker’s coil**.
+  > 
   🪢
+  </details>
  </details>
 
 [consulta_academica]: https://github.com/danibritods/consulta_academica
