@@ -132,6 +132,7 @@
 [academ]: https://github.com/dbs-97/demanda_academica
 [introds]: https://github.com/dbs-97/introds
 [r4ds]: https://r4ds.hadley.nz/
+[timetabling]: https://github.com/jvfd3/UENF-timetabling
 [basedados]: https://github.com/dbs-97/case-basedosdados
 [chitchat]: https://github.com/dbs-97/sistdist#daniel-brito
 [dlox]: https://github.com/dbs-97/dlox
