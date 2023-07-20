@@ -12,16 +12,16 @@
 
 <details> <summary> Some of the Things I’ve Done </summary>
 
-- [AcaDem][academ]: python and SQL script to extract and process my college's students data.
-- [Undergrad research][research]: on data science theoretical and pratical foundations.
-- [Introds][introds]: created and taught an Introduction to Data Science summer course at my college following [R for data science][r4ds].
-- [case-basedosdados][basedados]: dataviz case to explore BigQuery and basedosdados's API.
+- [AcaDem][academ]: **python** and **SQL** script to extract and process my college's students data.
+- [Undergrad research][research]: on **Data Science** theoretical and practical foundations.
+- [Introds][introds]: Introduction to Data Science **summer course** I've organized and taught at my college following [R for data science][r4ds].
+- [case-basedosdados][basedados]: **dataviz** case to explore **BigQuery** and **basedosdados**'s **API**.
 - [ChitChat][chitchat]: created a protocol and three architectures to implement a simple chat and learn about Sockets, RPC, P2P, networks and distributed systems.
-- [dlox][dlox]: my following of the awesome [Crafting Interpreters][crafting_interpreters] to learn more about compilers.
-- The classics: implemented some of the classical algorithms and data structures such as [quicksort][quicksort], [huffman code][huffman], [hashing][hashing] and [simulated annealing][sim_annealing] for the TSP. 
-- Solved some fun [Elixir exercisms][elixir_exercism].
-- Wrote a small book on [Julia Language][julia].
-- Built and documented a [CRUD][niex] to an imaginary supermarket with ruby on rails, docker and postgres to learn the basics of webdev.
+- [dlox][dlox]: my following of the awesome [Crafting Interpreters][crafting_interpreters] to learn more about **compilers**.
+- The classics: implemented some of the **classical algorithms** and **data structures** such as [quicksort][quicksort], [huffman code][huffman], [hashing][hashing] and [simulated annealing][sim_annealing] for the TSP. 
+- Solved some fun exercisms to learn [Elixir][elixir_exercism] and [Rust][rust_exercism].
+- Wrote ["Introdução à Linguagem Julia"][julia] a short introductory book on Julia Language.
+- Built and documented a [CRUD][niex] to an imaginary supermarket with **ruby on rails**, **docker** and **postgres** to learn the basics of webdev.
 - Created a simple [calculator][calculator] and a [Tic Tac Toe][tictactoe] using React to gain a better understanding of JavaScript and functional programming within the context of building interactive web applications.  
 </details>
 
@@ -140,7 +140,8 @@
 [sim_annealing]: https://github.com/dbs-97/heuristics/blob/main/heuristics_a2.ipynb
 [hashing]: https://github.com/dbs-97/DataStructures2/blob/main/am2.ipynb
 [elixir_exercism]: https://github.com/dbs-97/exercism_elixir
-[julia]: https://github.com/dbs-97/julia_book
+[rust_exercism]: https://github.com/danibritods/rust_exercisms
+[julia]: https://github.com/danibritods/julia_book/blob/master/DBS-Julia.pdf
 [niex]: https://github.com/dbs-97/niex
 [calculator]: https://github.com/dbs-97/calculator
 [tictactoe]: https://github.com/dbs-97/tictactoe
