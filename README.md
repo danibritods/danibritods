@@ -15,6 +15,7 @@
 - [AcaDem][academ]: **python** and **SQL** script to extract and process my college's students data.
 - [Undergrad research][research]: on **Data Science** theoretical and practical foundations.
 - [Introds][introds]: Introduction to Data Science **summer course** I've organized and taught at my college following [R for data science][r4ds].
+- [Timetabling][timetabling]: group project for the **Software Testing** class where I've designed the archtecture using **FastAPI**, implemented the models and controllers, as well as the **unit tests** and the github actions **workflows** for testing.    
 - [case-basedosdados][basedados]: **dataviz** case to explore **BigQuery** and **basedosdados**'s **API**.
 - [ChitChat][chitchat]: created a protocol and three architectures to implement a simple chat and learn about Sockets, RPC, P2P, networks and distributed systems.
 - [dlox][dlox]: my following of the awesome [Crafting Interpreters][crafting_interpreters] to learn more about **compilers**.
