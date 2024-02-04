@@ -1,17 +1,11 @@
-<h3 align="center">Computer Science Undergrad, Python Developer, Data Engineer Intern </h3>
+<h3 align="center"> Data | Software Engineer |  BSc in CS  </h3>
 
 <br>
 
-- 🔭 I’m currently working on [consulta_academica][consulta_academica], [PingPOMDP][ping_pomdp] and [finishing college][curriculum].
-<!-- - 🌱 I’m currently learning Rust -->
-
-<!-- 
-- I'm a data enthusiast, [almost computer scientist][curriculum], [undergrad researcher][research].
-- I use Fedora btw (I may or may not have an alias to restart pipewire...)
-- You're very welcome to reach out!  -->
-
 <details> <summary> Some of the Things I’ve Done </summary>
 
+- [PingPOMDP][ping_pomdp]: computational abstraction of [DishBrain][dishbrain] to explore **Active Inference**. My **undergrad thesis**. 
+- [consulta_academica][consulta_academica]: foundations for **data analysis** and data features within UENF's **Academic System**.
 - [AcaDem][academ]: **python** and **SQL** script to extract and process my college's students data.
 - [Undergrad research][research]: on **Data Science** theoretical and practical foundations.
 - [Introds][introds]: Introduction to Data Science **summer course** I've organized and taught at my college following [R for data science][r4ds].
@@ -33,7 +27,7 @@
   
     - "Outstanding communication" is the term I use to describe exceptional communicative pieces, as the name suggests. 
     - It can be any type of medium, any type of message, anything that catches my attention for its efficiency and functionality of communication.
-    - <details><summary> I have a <a href="https://youtube.com/playlist?list=PLOyYWXM6fk1aPdjrU-C4ZG-UgF0RDf5ES"> youtube playlist </a> to collect such pieces, take a look at some of them! </summary>  
+    - <details><summary> I have a <a href="https://youtube.com/playlist?list=PLOyYWXM6fk1aPdjrU-C4ZG-UgF0RDf5ES"> YouTube playlist </a> to collect such pieces, take a look at some of them! </summary>  
 
       - [The Kernel Trick in Support Vector Machine](https://youtu.be/Q7vT0--5VII)
       - [EP000: Operation Aurora | HACKING GOOGLE](https://youtu.be/przDcQe6n5o)
@@ -46,17 +40,20 @@
       - [Building a Computer Controlled Loom](https://youtu.be/Czun6yVpzp0)
       - [The Statistics of Microwave Popcorn](https://youtu.be/oeyW9x7r2Xw)
       </details>
+    - <details><summary> Here are some pieces in different mediums: </summary>  
+  
+      - [Byrne's Euclid](https://www.c82.net/euclid/)!!!
+      - [Poline](https://meodai.github.io/poline/)
+      - ...
+      </details>
 
-      <!-- - <details><summary> There are other mediums! </summary>
-      
-        - [Byrne's Euclid](https://www.c82.net/euclid/)!!! </details>    -->
-    </details>
+  - <details><summary> Mind </summary>
 
-  - <details><summary> Consciousness </summary>
-
-    - Awareness 
-    - Problems of consciousness, philosophy of mind,
-    - Qualia!
+    - Consciousness, Awareness, Cognition 
+    - Problems of consciousness, philosophy of mind, etc, etc
+    - [Qualia!](https://qri.org/)
+    - [Oliver Sacks!](https://www.oliversacks.com/oliver-sacks-books/the-man-who-mistook-his-wife-for-a-hat/)
+    - Just BEING, just E X P E R I A N C I N G, ya know?!
 
     </details> 
 
@@ -79,7 +76,7 @@
 
             - <details><summary> Recursion </summary>
             
-              - <details><summary> Recursion </summary></details>
+              - <details><summary> Recursion </summary> Love you! </details>
                
               </details>
             
@@ -125,6 +122,8 @@
     </details>
 </details>
 
+[ping_pomdp]: https://github.com/danibritods/ping_pomdp
+[dishbrain]: https://pubmed.ncbi.nlm.nih.gov/36228614/
 [consulta_academica]: https://github.com/danibritods/consulta_academica
 [ping_pomdp]: https://github.com/danibritods/ping_pomdp
 [curriculum]: my_curriculum_2023-2.pdf
